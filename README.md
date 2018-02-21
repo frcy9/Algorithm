@@ -41,10 +41,7 @@
 **稳定性**：排序后 2 个相等键值的顺序和排序之前它们的顺序相同
 
 ----
-
-
 **内容大纲**
-
 1. [冒泡排序](1.bubbleSort.md)
 2. [选择排序](2.selectionSort.md)
 3. [插入排序](3.insertionSort.md)
@@ -55,7 +52,9 @@
 8. [计数排序](8.countingSort.md)
 9. [桶排序](9.bucketSort.md)
 10. [基数排序](10.radixSort.md)
-
 ----
 
 本文内容几乎完全来源于网络。
+----
+[出处](https://github.com/hustcc/JS-Sorting-Algorithm)  
+注要是加的 php的算法 还有`浅显总结`
