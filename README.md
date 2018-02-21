@@ -57,4 +57,4 @@
 本文内容几乎完全来源于网络。
 ----
 [出处](https://github.com/hustcc/JS-Sorting-Algorithm)  
-注要是加的 php的算法 还有`浅显总结`
+注要是加的 `PHP的算法` 还有 `浅显总结`
